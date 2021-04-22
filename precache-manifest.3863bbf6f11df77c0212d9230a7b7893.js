@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "998fca5986d47c2198477475dc7326eb",
+    "revision": "e4741470db5767f23fb6df8064543f72",
     "url": "/main/index.html"
   },
   {
-    "revision": "20fb556a29c7cc6b976b",
+    "revision": "1b59bd73f46d335f2965",
     "url": "/main/static/css/3.879e9400.chunk.css"
   },
   {
-    "revision": "763e8ace1a37d36e6898",
+    "revision": "fd2b9cc6fa5152ced53f",
     "url": "/main/static/css/4.54df59d4.chunk.css"
   },
   {
-    "revision": "2aa115dab4111a02b4c6",
+    "revision": "bf1a83353cf40745c87c",
     "url": "/main/static/css/main.0f4312bc.chunk.css"
   },
   {
-    "revision": "55401266848454aeca30",
-    "url": "/main/static/js/2.07809275.chunk.js"
+    "revision": "c44870a4408b74443714",
+    "url": "/main/static/js/2.0dbfc4b5.chunk.js"
   },
   {
     "revision": "71772b085033e92f89cdfb3071333458",
-    "url": "/main/static/js/2.07809275.chunk.js.LICENSE.txt"
+    "url": "/main/static/js/2.0dbfc4b5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "20fb556a29c7cc6b976b",
-    "url": "/main/static/js/3.02b3eb01.chunk.js"
+    "revision": "1b59bd73f46d335f2965",
+    "url": "/main/static/js/3.27125b94.chunk.js"
   },
   {
-    "revision": "763e8ace1a37d36e6898",
-    "url": "/main/static/js/4.c50a4cb5.chunk.js"
+    "revision": "fd2b9cc6fa5152ced53f",
+    "url": "/main/static/js/4.68058997.chunk.js"
   },
   {
-    "revision": "2aa115dab4111a02b4c6",
-    "url": "/main/static/js/main.8a380116.chunk.js"
+    "revision": "bf1a83353cf40745c87c",
+    "url": "/main/static/js/main.4426a95a.chunk.js"
   },
   {
-    "revision": "dde8e978bfa3fa25ad27",
-    "url": "/main/static/js/runtime-main.b75ed969.js"
+    "revision": "18e66bf12960a712f298",
+    "url": "/main/static/js/runtime-main.db814046.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -46,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/main/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "5afd016ac74334acee4a7a0116e76054",
+    "url": "/main/static/media/Resume.5afd016a.pdf"
   },
   {
     "revision": "c59720d63dc3595a12e1c7e641a1bfa5",
@@ -86,6 +90,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
     "url": "/main/static/media/saayaHealthLogo.25018d29.webp"
+  },
+  {
+    "revision": "b06798546c3b7608edd4f9f9ad7bb3e6",
+    "url": "/main/static/media/sas.b0679854.webp"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
